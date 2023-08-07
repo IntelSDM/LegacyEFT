@@ -1,0 +1,3 @@
+curl -H x-api-key:gVN7cvkMF5Nd8xMC https://tarkov-market.com/api/v1/items/all --output C:\Users\dev\Desktop\New Eft\EFT\TarkovApi\tarkovmarket.json
+
+curl -H x-api-key:gVN7cvkMF5Nd8xMC https://tarkov-market.com/api/v1/items/all --output C:\Users\dev\Desktop\New Eft\EFT\TarkovApi\tarkovmarket.json
